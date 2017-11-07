@@ -1,4 +1,5 @@
 import pandas
+# devesh Bajaj Help him
 df = pandas.read_csv("sin_dataset.csv")
 
 power_d = 0
